@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|c:\\users\\admin\\desktop\\examen2 progra\\gestiontaller\\gestiontaller\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|solutionrelative:gestiontaller\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|c:\\users\\admin\\desktop\\examen2 progra\\gestiontaller\\gestiontaller\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|solutionrelative:gestiontaller\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|c:\\users\\admin\\desktop\\examen2 progra\\gestiontaller\\gestiontaller\\controllers\\mecanicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|solutionrelative:gestiontaller\\controllers\\mecanicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|c:\\users\\admin\\desktop\\examen2 progra\\gestiontaller\\gestiontaller\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|solutionrelative:gestiontaller\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|c:\\users\\admin\\desktop\\examen2 progra\\gestiontaller\\gestiontaller\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|solutionrelative:gestiontaller\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|c:\\users\\admin\\desktop\\examen2 progra\\gestiontaller\\gestiontaller\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|solutionrelative:gestiontaller\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|c:\\users\\admin\\desktop\\examen2 progra\\gestiontaller\\gestiontaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|solutionrelative:gestiontaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|c:\\users\\admin\\desktop\\examen2 progra\\gestiontaller\\gestiontaller\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|solutionrelative:gestiontaller\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|c:\\users\\admin\\desktop\\examen2 progra\\gestiontaller\\gestiontaller\\models\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|solutionrelative:gestiontaller\\models\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|c:\\users\\admin\\desktop\\examen2 progra\\gestiontaller\\gestiontaller\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A11A9FE4-5665-4BE6-AEE5-F1BBDB2D84FA}|GestionTaller\\GestionTaller.csproj|solutionrelative:gestiontaller\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "GestionTaller\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "GestionTaller\\Controllers\\FacturasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:05:06.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "GestionTaller\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\WeatherForecast.cs",
+              "RelativeToolTip": "GestionTaller\\WeatherForecast.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:04:54.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MecanicosController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Controllers\\MecanicosController.cs",
+              "RelativeDocumentMoniker": "GestionTaller\\Controllers\\MecanicosController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Controllers\\MecanicosController.cs",
+              "RelativeToolTip": "GestionTaller\\Controllers\\MecanicosController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:57:36.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "GestionTaller\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "GestionTaller\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:43:21.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "GestionTaller\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "GestionTaller\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBMAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:16:44.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "GestionTaller\\Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "GestionTaller\\Controllers\\VehiculosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:23:11.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Program.cs",
+              "RelativeDocumentMoniker": "GestionTaller\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Program.cs",
+              "RelativeToolTip": "GestionTaller\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:04:49.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "GestionTaller\\Models\\Clientes.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Models\\Clientes.cs",
+              "RelativeToolTip": "GestionTaller\\Models\\Clientes.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:21:46.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GestionTaller\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\appsettings.Development.json",
+              "RelativeToolTip": "GestionTaller\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T12:18:17.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Models\\Vehiculos.cs",
+              "RelativeDocumentMoniker": "GestionTaller\\Models\\Vehiculos.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\examen2 progra\\GestionTaller\\GestionTaller\\Models\\Vehiculos.cs",
+              "RelativeToolTip": "GestionTaller\\Models\\Vehiculos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:22:36.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
